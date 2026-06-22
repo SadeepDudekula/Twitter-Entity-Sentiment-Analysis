@@ -150,6 +150,15 @@ FIFA's 50.37% negative rate suggests deep dissatisfaction around Ultimate Team m
 
 This analysis of 69,577 tweets across 32 entities reveals that negative sentiment is the dominant tone on Twitter, particularly within the sports gaming category. MaddenNFL and NBA2K face the most severe negativity while AssassinsCreed stands out as the most positively received entity. Verizon leads all brands in overall discussion volume, suggesting it is a highly visible but divisive brand. These findings provide a clear foundation for brand reputation management and social media strategy decisions.
 
+
 ---
 
-## Repository Structure
+## 👤 About Me
+
+I'm **Sadeep Dudekula**, a B.Tech (AIML) graduate and aspiring Data Analyst from India. This is part of my data analytics portfolio showcasing skills in Excel, Power BI, SQL.
+
+🔗 [LinkedIn](https://www.linkedin.com/in/sadeep-dudekula-377911272?utm_source=share_via&utm_content=profile&utm_medium=member_android)
+
+---
+
+*Dataset sourced from Kaggle under CC0 Public Domain license. This project is for educational and portfolio purposes.*
