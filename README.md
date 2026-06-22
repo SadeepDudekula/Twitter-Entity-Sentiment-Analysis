@@ -2,7 +2,7 @@
 
 
 
-![Twitter Sentiment Analysis Dashboard](Images/dashboard.png)
+![Twitter Sentiment Analysis Dashboard](Images/Dashboard.png)
 
 
 
